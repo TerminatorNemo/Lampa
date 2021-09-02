@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>D:\Lampa\Multiwibrator\Multivibrator\Multivibrator.sch</source>
+    <date>31.08.2021 20:58:54</date>
+    <tool>Eeschema (5.1.10)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Multivibrator.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>CP1</value>
+      <footprint>Capacitor_THT:CP_Radial_D7.5mm_P2.50mm</footprint>
+      <datasheet>https://www.nikom.biz/product_A207003.html?globo=&amp;info=A038005</datasheet>
+      <fields>
+        <field name="Assembly">~</field>
+        <field name="Comment">~</field>
+        <field name="Description">~</field>
+        <field name="Designator">~</field>
+        <field name="Manufakcturer Part Number">~</field>
+        <field name="Menufacturer">~</field>
+        <field name="Supplier Part Number">~</field>
+      </fields>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612D2EEC</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>CP1</value>
+      <footprint>Capacitor_THT:CP_Radial_D7.5mm_P2.50mm</footprint>
+      <datasheet>https://www.nikom.biz/product_A207003.html?globo=&amp;info=A038005</datasheet>
+      <fields>
+        <field name="Assembly">~</field>
+        <field name="Comment">~</field>
+        <field name="Description">~</field>
+        <field name="Designator">~</field>
+        <field name="Manufakcturer Part Number">~</field>
+        <field name="Menufacturer">~</field>
+        <field name="Supplier Part Number">~</field>
+      </fields>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612D3632</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>Diode_SMD:D_0201_0603Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Assembly">~</field>
+        <field name="Comment">~</field>
+        <field name="Description">~</field>
+        <field name="Designator">~</field>
+        <field name="Manufakcturer Part Number">~</field>
+        <field name="Menufacturer">~</field>
+        <field name="Supplier Part Number">~</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612DA243</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>Diode_SMD:D_0201_0603Metric</footprint>
+      <datasheet>https://www.nikom.biz/product_A207003.html</datasheet>
+      <fields>
+        <field name="Assembly">~</field>
+        <field name="Comment">~</field>
+        <field name="Description">~</field>
+        <field name="Designator">~</field>
+        <field name="Manufakcturer Part Number">~</field>
+        <field name="Menufacturer">~</field>
+        <field name="Supplier Part Number">~</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612DB29A</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.nikom.biz/product_A170017.html</datasheet>
+      <fields>
+        <field name="Assembly">~</field>
+        <field name="Comment">~</field>
+        <field name="Description">~</field>
+        <field name="Designator">~</field>
+        <field name="Manufakcturer Part Number">~</field>
+        <field name="Menufacturer">~</field>
+        <field name="Supplier Part Number">~</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612DCDB5</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.nikom.biz/product_A170001.html</datasheet>
+      <fields>
+        <field name="Assembly">~</field>
+        <field name="Comment">~</field>
+        <field name="Description">~</field>
+        <field name="Designator">~</field>
+        <field name="Manufakcturer Part Number">~</field>
+        <field name="Menufacturer">~</field>
+        <field name="Supplier Part Number">~</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612DDAEF</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.nikom.biz/product_A170001.html</datasheet>
+      <fields>
+        <field name="Assembly">~</field>
+        <field name="Comment">~</field>
+        <field name="Description">~</field>
+        <field name="Designator">~</field>
+        <field name="Manufakcturer Part Number">~</field>
+        <field name="Menufacturer">~</field>
+        <field name="Supplier Part Number">~</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612DDD1C</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.nikom.biz/product_A170017.html</datasheet>
+      <fields>
+        <field name="Assembly">~</field>
+        <field name="Comment">~</field>
+        <field name="Description">~</field>
+        <field name="Designator">~</field>
+        <field name="Manufakcturer Part Number">~</field>
+        <field name="Menufacturer">~</field>
+        <field name="Supplier Part Number">~</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612DDFD0</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>BC337</value>
+      <footprint>Package_TO_SOT_THT:TO-92</footprint>
+      <datasheet>https://www.nikom.biz/product_A207003.html?globo=&amp;info=A117014</datasheet>
+      <fields>
+        <field name="Assembly">~</field>
+        <field name="Comment">~</field>
+        <field name="Description">~</field>
+        <field name="Designator">~</field>
+        <field name="Manufakcturer Part Number">~</field>
+        <field name="Menufacturer">~</field>
+        <field name="Supplier Part Number">~</field>
+      </fields>
+      <libsource lib="Device" part="Q_NPN_CBE" description="NPN transistor, collector/base/emitter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612D3B4F</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>BC337</value>
+      <footprint>Package_TO_SOT_THT:TO-92</footprint>
+      <datasheet>https://www.nikom.biz/product_A207003.html?globo=&amp;info=A117014</datasheet>
+      <fields>
+        <field name="Assembly">~</field>
+        <field name="Comment">~</field>
+        <field name="Description">~</field>
+        <field name="Designator">~</field>
+        <field name="Manufakcturer Part Number">~</field>
+        <field name="Menufacturer">~</field>
+        <field name="Supplier Part Number">~</field>
+      </fields>
+      <libsource lib="Device" part="Q_NPN_CBE" description="NPN transistor, collector/base/emitter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612D52C0</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>4P2C</value>
+      <footprint>Connector:JWT_A3963_1x02_P3.96mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Assembly">~</field>
+        <field name="Comment">~</field>
+        <field name="Description">~</field>
+        <field name="Designator">~</field>
+        <field name="Manufakcturer Part Number">~</field>
+        <field name="Menufacturer">~</field>
+        <field name="Supplier Part Number">~</field>
+      </fields>
+      <libsource lib="Connector" part="4P2C" description="RJ connector, 4P2C (4 positions 2 connected)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612E640A</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="4P2C">
+      <description>RJ connector, 4P2C (4 positions 2 connected)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>4P2C*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">4P2C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="CP1">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NPN_CBE">
+      <description>NPN transistor, collector/base/emitter</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_CBE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(C2-Pad1)">
+      <node ref="R4" pin="2"/>
+      <node ref="C2" pin="1"/>
+      <node ref="Q2" pin="1"/>
+    </net>
+    <net code="2" name="Net-(C1-Pad1)">
+      <node ref="Q1" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="3" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="Q2" pin="2"/>
+    </net>
+    <net code="4" name="GND">
+      <node ref="J1" pin="2"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="Q2" pin="3"/>
+    </net>
+    <net code="5" name="Net-(C2-Pad2)">
+      <node ref="R3" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="Q1" pin="2"/>
+    </net>
+    <net code="6" name="+5V">
+      <node ref="J1" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="D2" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="7" name="Net-(D1-Pad1)">
+      <node ref="R1" pin="1"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="8" name="Net-(D2-Pad1)">
+      <node ref="R4" pin="1"/>
+      <node ref="D2" pin="1"/>
+    </net>
+  </nets>
+</export>
